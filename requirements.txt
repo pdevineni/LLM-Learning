@@ -1,0 +1,5 @@
+llama-index
+openai
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
+wikipedia
